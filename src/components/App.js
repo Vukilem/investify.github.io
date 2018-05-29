@@ -9,7 +9,7 @@ import Payment from './Payment';
 
 export default () => (
   <div>
-    <Header title={"Mortgage Overpayment Calculator"} />
+    <Header title={"Investify | Simplifying Investig"} />
     <div className="container-fluid">
       <div className="col-md-8 col-sm-12">
         <BaseFigures className="col-sm-4" />
